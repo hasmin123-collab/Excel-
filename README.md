@@ -1,0 +1,1 @@
+First project is data analysing of Food Price Of India 1994-2021 in using many advnced formulae and pivot tables and intractive dashboard and it is an unguided project.second projects is a Accenture virtual internship project having collaboration with Social Buzz Technologies Private Limited.  
